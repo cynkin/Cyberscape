@@ -1,0 +1,21 @@
+# JetBrains IDE (WebStorm) folders
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs and temporary files
+*.log
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output (optional)
+dist/
+build/
